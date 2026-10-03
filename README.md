@@ -21,4 +21,4 @@ A Python Turtle animation where hundreds of stars move smoothly from random posi
 Clone the repository:
 
 ```bash
-git clone https://github.com/IshantDutta/heart-stars.git
+git clone https://github.com/IshantDutta/heart-stars-
